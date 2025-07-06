@@ -123,17 +123,6 @@ To use PayPal payments:
 
 ---
 
-## 📸 Screenshots
-
-> Replace the placeholders below with actual image links.
-
-| Store Page | Cart Page | Checkout Page |
-|------------|-----------|----------------|
-| ![](path-to-store.png) | ![](path-to-cart.png) | ![](path-to-checkout.png) |
-
----
-
-
 ## 🙋‍♂️ Author
 
 **Sahil Gulati**  
