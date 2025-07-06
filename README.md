@@ -17,24 +17,25 @@ A fully functional eCommerce web application built with **Django**, integrated w
 - 🔒 CSRF protection and secure transaction handling
 
 ---
-## PROJECT STRUCTURE 
+## 📁 Project Structure
 
+```
 ecommerce/
-├── config/                         # Django project settings
+├── config/                # Django project settings
 │   ├── __init__.py
 │   ├── asgi.py
 │   ├── settings.py
 │   ├── urls.py
 │   └── wsgi.py
 │
-├── static/                         # Static files
+├── static/                # Static files
 │   ├── css/
 │   │   └── main.css
 │   ├── images/
 │   └── js/
 │       └── cart.js
 │
-├── store/                          # Store app
+├── store/                 # Store app
 │   ├── __init__.py
 │   ├── admin.py
 │   ├── apps.py
@@ -44,14 +45,11 @@ ecommerce/
 │   ├── utils.py
 │   ├── views.py
 │   ├── migrations/
-│   └── templates/store/
-│       ├── main.html
-│       ├── cart.html
-│       ├── checkout.html
-│       └── store.html
-│
-├── db.sqlite3                      # SQLite database
-└── manage.py
+│   └── templates/
+│       └── store/
+│           ├── main.html
+│           ├──
+
 ```
 
 ## 🧰 Tech Stack
